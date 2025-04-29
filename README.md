@@ -2,7 +2,7 @@
 
 A simple and elegant weather application that allows users to check current weather conditions for any city around the world.
 
-## Features 
+## Features
 
 - Real-time weather data retrieval
 - Search for weather by city name
